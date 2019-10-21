@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="persistencia.Pessoa">
+    <void property="codigo">
+     <int>3</int>
+    </void>
+    <void property="dataNasc">
+     <object class="java.util.Date">
+      <long>977445835768</long>
+     </object>
+    </void>
+    <void property="email">
+     <string>Vinigoulartalmeida@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>Vinicius</string>
+    </void>
+    <void property="telefone">
+     <string>49992015953</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="persistencia.Pessoa">
+    <void property="codigo">
+     <int>2</int>
+    </void>
+    <void property="dataNasc">
+     <object class="java.util.Date">
+      <long>918002635863</long>
+     </object>
+    </void>
+    <void property="email">
+     <string>caio@hotmail.com</string>
+    </void>
+    <void property="nome">
+     <string>Caio</string>
+    </void>
+    <void property="telefone">
+     <string>999856515</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
